@@ -1,2 +1,2 @@
-# Katas resueltas x Francisco Nunez H
+Katas resueltas x Francisco Nunez H
 
